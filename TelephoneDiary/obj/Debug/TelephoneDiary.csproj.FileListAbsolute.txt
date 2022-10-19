@@ -1,0 +1,12 @@
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe.config
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.pdb
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.AssemblyReference.cache
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.SuggestedBindingRedirects.cache
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Properties.Resources.resources
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.GenerateResource.cache
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.CoreCompileInputs.cache
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.exe
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.pdb
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Phone.resources
+C:\Users\khadi\source\repos\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Form2.resources
